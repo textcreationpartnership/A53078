@@ -1,0 +1,322 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The divine goodness a pattern to all A sermon preached at the assizes held at Chester. Sept. 16. 1689. By Henry Newcome, M.A. Rector of Tatten-hall, in the County Palatine of Chester. Imprimatur, Octob. 22. 1689. Z. Isham. R. P. D. Henrico Episc. Lond. à sacris.</title>
+            <author>Newcome, Henry, 1627-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53078</idno>
+            <idno type="STC">Wing N895</idno>
+            <idno type="STC">ESTC R224190</idno>
+            <idno type="EEBO-CITATION">99834525</idno>
+            <idno type="PROQUEST">99834525</idno>
+            <idno type="VID">39026</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39026)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1817:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The divine goodness a pattern to all A sermon preached at the assizes held at Chester. Sept. 16. 1689. By Henry Newcome, M.A. Rector of Tatten-hall, in the County Palatine of Chester. Imprimatur, Octob. 22. 1689. Z. Isham. R. P. D. Henrico Episc. Lond. à sacris.</title>
+                  <author>Newcome, Henry, 1627-1695.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J. D[arby]. for Jonathan Robinson at the Golden Lion in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from Wing CD-ROM.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39026:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Divine Goodneſs a Pattern to All.</hi>
+            </p>
+            <p>A SERMON PREACHED At the Aſſizes held at <hi>Cheſter,</hi> Sept. 16. 1689.</p>
+            <p>By <hi>HENRY NEWCOME,</hi> M. A. Rector of <hi>Tatten-hall,</hi> in the County Palatine of <hi>Cheſter.</hi>
+            </p>
+            <p>IMPRIMATUR,</p>
+            <p>
+               <hi>Octob.</hi> 22. 1689.</p>
+            <p>
+               <hi>Z. Iſham. R. P. D. Henrico Epiſc. Lond. a Sacris.</hi>
+            </p>
+            <p>
+               <hi>LONDON;</hi> Printed by <hi>J. D.</hi> for <hi>Jonathan Robinſon</hi> at the Golden Lion in St. <hi>Paul</hi>'s Church-yard. 1689.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:39026:2"/>
+            <pb facs="tcp:39026:2"/>
+            <head>TO THE Right Reverend Father in God, NICOLAS, Lord Biſhop of CHESTER.</head>
+            <opener>
+               <salute>My LORD;</salute>
+            </opener>
+            <p>BEing commanded by my Lords the Judges, the High-Sheriff, and the moſt Honourable of the Auditory, to which this Sermon was preached, to publiſh it; I was induced in de<g ref="char:EOLhyphen"/>ference to their better Judgments to hope, that what ſuch approved of from the Pulpit, might do ſome good from the Preſs. The Deſign was ſincere, according to my mean Capacity, to recommend to thoſe that heard me their Duties, ſuitable to the occaſion, and to diſcourage that Immorality, which hath in this laſt Age been the Diſgrace of our Gentry, and the Bane of this Nation. I preſume to prefix your Lordſhip's Name to it, not only be<g ref="char:EOLhyphen"/>cauſe I am aſſured you will readily lend me the Authority thereof, for promoting ſo good a Deſign,
+<pb facs="tcp:39026:3"/>but alſo that I may lay hold on this firſt opportunity, to make a publick Acknowledgment of your ex<g ref="char:EOLhyphen"/>traordinary Favour and Bounty in preferring me to that Station, which I now enjoy in the Church. That this plain Diſcourſe may be ſome way ſer<g ref="char:EOLhyphen"/>viceable for the promoting of Juſtice, Charity and Sobriety, for which end it was firſt preached, and is now publiſhed; That your Lordſhip may long live among us, to ſecond that great Example recom<g ref="char:EOLhyphen"/>mended in it, by your own, and that God will at length reward in Heaven your Kindneſs and Bounty to me here, is the hearty Prayer of,</p>
+            <closer>
+               <signed>Your Lordſhip's moſt obliged and obedient Servant, <hi>HENRY NEWCOME.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:39026:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 PET. iii. 13.</hi>
+                  </bibl>
+                  <p>And who is he that will harm you, if ye he followers of that which is good?</p>
+               </q>
+            </epigraph>
+            <p>IT's every Man's Enquiry,<note place="margin">Pſal. 4.6.</note> 
+               <hi>Who will ſhew us any Good?</hi> But that will be in vain till they have found where to be ſafe from Harm. Nature, which teaches us to love our ſelves, obliges us to en<g ref="char:EOLhyphen"/>deavour our own Preſervation, as neceſſary to our Happineſs. For Safety is the firſt part of Felicity, and that is beſt conſulted by Religi<g ref="char:EOLhyphen"/>on. The <hi>Altar</hi> of God is a ſure <hi>place of Re<g ref="char:EOLhyphen"/>fuge;</hi>
+               <note place="margin">2 Cor. 6.7.</note> and the <hi>Armour of Righteouſneſs</hi> the beſt Defence. For, <hi>Who is he that will harm you, if ye be followers of that which is good?</hi>
+            </p>
+            <p>Which words contain two Parts; a Duty, and a Priviledg annexed to the Performance of it. The Duty is, to <hi>be followers of that which is good.</hi> The Priviledg, or Advantage of ſuch, <hi>Who is he that will harm you? i. e.</hi> None will, none can harm ſuch an one.</p>
+            <pb n="2" facs="tcp:39026:4"/>
+            <p>I ſhall firſt explain the Duty; and then conſider the Priviledg annexed as a Motive to it.</p>
+            <p>I. Firſt for the Duty. To <hi>follow,</hi> hath rela<g ref="char:EOLhyphen"/>tion either to an End or a Patern, and ſtill de<g ref="char:EOLhyphen"/>notes either to purſue a Deſign, or tranſcribe an Example. Here the Greek word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies <hi>Imitators,</hi> evidently confines it to the latter Notion. The only difficulty to the explained is, what is to be underſtood by <hi>that which is good,</hi> which is here propoſed as the Patern or Example, which we are to follow, or imitate. Now <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>The Good,</hi> not only in the Writings of <hi>Plato, Triſmegiſtus,</hi> and other Heathen Philoſophers, but alſo in Sacred Writ too, is uſed to ſignify God Him<g ref="char:EOLhyphen"/>ſelf: As when our Saviour ſaith, <hi>There is none good but one,</hi>
+               <note place="margin">Mat. 19.17.</note> 
+               <hi>that is God;</hi> he ſeems to appropriate to God this Title of <hi>The Good.</hi> And if we conſider the Verſe before my Text, we find that it is the <hi>Lord, whoſe Eyes are over the Righteous,</hi> and <hi>whoſe Face is againſt them that do Evil,</hi> whom the Apoſtle recommends un<g ref="char:EOLhyphen"/>der the Notion of <hi>the Good,</hi> to our Imitation. <hi>Be ye followers of the Good,</hi> is the Duty in the Text, which is the ſame with what St. <hi>Paul</hi>
+               <pb n="3" facs="tcp:39026:4"/>recommends to the <hi>Epheſians,</hi> to <hi>be followers of God as dear Children.</hi>
+               <note place="margin">Cap. 5.1.</note> Only by ſtyling God <hi>the Good</hi> here, St. <hi>Peter</hi> ſeems to re<g ref="char:EOLhyphen"/>ſtrain that general Precept of imitating God to that Divine Perfection, which is the moſt proper Object of our Imitation, <hi>his Good<g ref="char:EOLhyphen"/>neſs. Plutarch</hi> derides the Ambition of ſome Princes, that affecting the Power of the Deity, would be painted with Thunder,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Mor. <hi>p.</hi> 780.</note> or a Trident; ſhewing their Folly (ſaith he) in deſiring to be like God in what they could not attain, whilſt they deſpiſed what is moſt Divine in the Deity, and what he is moſt willing they ſhould ſhare with him in, his Juſtice, Meekneſs, Lenity and Bounty; that is, in the Apoſtle's Language, his <hi>Goodneſs. Adam</hi> aſpiring to be like God in Knowledg, and <hi>Lucifer</hi> in Majeſty, that was caſt out of Paradiſe, and this out of Heaven: But for Angels or Men to covet to be like God in Goodneſs, never will be a Tranſgreſſion; Nay, it is our Duty, it is the chief End of our pure Religion, and will be our Perfection to imitate God in this, which is <hi>his Glory,</hi>
+               <note place="margin">Exod. 33 18, 19.</note> the very beſt and moſt imitable of his Perfections.</p>
+            <p>To be Followers of this, whether in a pub<g ref="char:EOLhyphen"/>lic or private Capacity; whether in the Offices
+<pb n="4" facs="tcp:39026:5"/>of Magiſtracy, or common Neighbourhood, would conſtitute a good Chriſtian.</p>
+            <p>
+               <hi>Firſt; Magiſtrates cannot have a better Example, than his Goodneſs, who governs the World, to tran<g ref="char:EOLhyphen"/>ſcribe in the Exerciſe of their Authority.</hi> And that both in reſpect of his watchful Providence, and his untainted Juſtice.</p>
+            <p n="1">1. For the firſt. It was a groſs and low Conceit, which <hi>Epicurus</hi> framed to himſelf of the Divine Nature, when he apprehended the Care of his Creatures too cumberſom an Em<g ref="char:EOLhyphen"/>ployment for him, or that it was inconſiſtent with his Happineſs to provide for theirs. Since the beſt Natures are moſt communicative, and equally happy in diſpenſing, as enjoying, their own Goodneſs. And to ſuppoſe God other<g ref="char:EOLhyphen"/>wiſe, were to deny him to be the beſt of Be<g ref="char:EOLhyphen"/>ings, that is, to be God. What therefore was the Commendation of the <hi>Roman</hi> General, that he took care not only to provide Pay for his Captains, but even Litter too for the meaneſt Beaſt that ſerved his Camp, is much more true of the <hi>Lord of Hosts,</hi> whoſe Care and Bounty is exerted towards the meaneſt as well as the nobleſt of his Creatures.</p>
+            <p>And when the Scripture ſtiles Magiſtrates <hi>Gods,</hi>
+               <note place="margin">Pſal. 82.6.</note> it intends they ſhould imitate God's
+<pb n="5" facs="tcp:39026:5"/>Providence, as well as ſhare in his Authority; and be as ready to undergo the Toil, as enjoy the Honour of governing <hi>Antigonus</hi> ſtiled the Royal State a <hi>great Slavery;</hi> and nothing can reconcile a good Magiſtrate to the Druge<g ref="char:EOLhyphen"/>ry of his Office, but the Conſcience of the great Good he doth thereby to others. Every Crown and Enſign of Authority hath its Thorns, which he bears (as the Saviour of the World did his) for the good of Mankind, which in a lower Capacity he deſigns and endeavours to promote thereby. But as in his Care, ſo alſo,</p>
+            <p n="2">2. <hi>In the diſtribution of Juſtice,</hi> a good Ma<g ref="char:EOLhyphen"/>giſtrate makes the Divine Goodneſs his Ex<g ref="char:EOLhyphen"/>ample. It was for this, ſaith <hi>Plutarch,</hi>
+               <note place="margin">Moa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. <hi>p.</hi> 781.</note> that the Heathens repreſented Juſtice to be always with <hi>Jupiter;</hi> not as <hi>Anaxarchus</hi> gloſſed, to flatter <hi>Alexander</hi> after the Murder of his Friend <hi>Clitus,</hi> as if whatever a King did, were to be accoun<g ref="char:EOLhyphen"/>ted juſt, but becauſe <hi>Jove</hi> himſelf cannot rule the World longer than Juſtice is his Aſſeſſor.</p>
+            <p n="1">1. Conſider then, that God ſits not in Hea<g ref="char:EOLhyphen"/>ven an unconcerned Spectator, but a <hi>compaſſio<g ref="char:EOLhyphen"/>nate Helper of the Oppreſſed;</hi> He hath his Ears always open to their Cries, and hears nothing ſo ſoon as the Groans of Injured Innocence:
+<pb n="6" facs="tcp:39026:6"/>When ſuch cry,<note place="margin">Exod. 22. v 3. <hi>with</hi> zer. 27.</note> he ſaith, he will <hi>ſurely hear them,</hi> and for this reaſon, <hi>becauſe he is gracious.</hi>
+            </p>
+            <p>This Goodneſs are the Earthly Gods to tranſcribe, as remembring that they were or<g ref="char:EOLhyphen"/>dained (to uſe the words of judicious Biſhop <hi>Sanderſon</hi>) not ſo much for their own ſakes,<note place="margin">
+                  <hi>Serm. 1ſt ad Magiſ.</hi> p. 86. §. 10</note> that they might have over whom to bear rule and to domineer at pleaſure; as for the Peo<g ref="char:EOLhyphen"/>ples ſakes, that the People might have to whom to reſort, and upon whom to depend for Help and Succor, and Relief in their Neceſſities: And that it is not a Power to hurt, but a Power to help, that makes them like the Deity. From whom they may learn not only Com<g ref="char:EOLhyphen"/>paſſion toward the Innocent, but alſo</p>
+            <p n="2">2. <hi>Patience towards the Guilty.</hi> It was not the leaſt witty of <hi>Momus</hi>'s Cenſure, when he found fault, that the Salvage Bull had his Eyes under, rather than above his Horns. Sure I am, all Power ought to be governed by Rea<g ref="char:EOLhyphen"/>ſon; and that is ſo, which takes its meaſures from God.<note place="margin">Gen. 18.21.</note> He <hi>went down to ſee</hi> whether the Sin of <hi>Sodom</hi> were as heinous, as the Cry of it was loud: Not that he needed Information, but that Magiſtrates by his Example might be induced with Diligence and Patience to hear, examine, and enquire into the Truth of things,
+<pb n="7" facs="tcp:39026:6"/>whether judicial or criminal, before they paſs Sentence. And,</p>
+            <p n="3">3. Laſtly, that they ſwerve not from their Rule, they muſt not <hi>be influenced by the fear or favour of Men,</hi> to part with Juſtice, Conſcience, or true Honour. They muſt not let Gold turn the Scales in Judgment, nor preponderate the Reaſon and Merits of the Cauſe: But ſo im<g ref="char:EOLhyphen"/>partially and with that noble Reſolution per<g ref="char:EOLhyphen"/>from their Duty, as to diſcourage all Attempts to pervert them. They muſt not fear Vice, when moſt bold or beſt befriended, but dare to puniſh the greateſt as well as the meaneſt Crimial that is brought before them: For this is to be like God, who hath oft declared, <hi>that he is no Reſpecter of Perſons,</hi> but will <hi>judg all Men according to their Works.</hi> Greatneſs cannot awe him, nor can Miſery melt him: The rich Man's Purſe, the poor Man's Tears cannot bribe him. Omnipotence cannot be frighted, nor Allſufficiency corrupted. God loveth none ſo as to injure any other for their ſakes; nor doth he hate any ſo, as to ſacrifice his Juſtice to Revenge.<note place="margin">Pſal. 97.2.</note> 
+               <hi>Clouds and Darkneſs are round about him;</hi> ie. there may ſometimes be obſcurity in the Divine Diſpenſations, through which Men may not ſo clearly diſcern the
+<pb n="8" facs="tcp:39026:7"/>Equity of his Proceedings; yet <hi>Righteouſneſs and Judgment are</hi> always <hi>the Habitation of his Throne.</hi>
+               <note place="margin">Prov. 25.5.</note> As the <hi>King's Throne</hi> on Earth, ſo God's in Heaven, <hi>is eſtabliſhed in Righteouſneſs.</hi>
+            </p>
+            <p>And in this Mirror of the Divine Goodneſs Magiſtrates may diſcern their Duties; good ones may ſee themſelves in it, what they are, and others what they ſhould be. But leſt the Mirror ſhould have contracted any flaw by my rougher handling of it, I ſhall conclude with the words of King <hi>Jehoſhaphat</hi> to his Judges, wherein you have the Parallel more exactly drawn. <hi>Take heed what ye do; for ye judg not for Man,</hi>
+               <note place="margin">2 Chron. 19.6, 7.</note> 
+               <hi>but for the Lord, who is with you in Judgment. Wherefore now let the Fear of the Lord he upon you, take heed and do it: for there is no Iniquity with the Lord our God, nor reſpect of Perſons, nor taking of Gifts.</hi> I proceed,</p>
+            <p>
+               <hi>Secondly,</hi> To recommend this Example of the Divine Goodneſs to others in a more pri<g ref="char:EOLhyphen"/>vate Capacity, as an excellent Rule of their Duties, eſpecially in theſe four branches of it, <hi>viz.</hi> Juſtice, Bounty, Mercy, and Purity.</p>
+            <p n="1">1. <hi>Juſtice.</hi> God in all his Diſpenſations and Actings is ſo juſt, that no Man was ever wronged by him. He appeals in this reſpect to all the World by the Prophet;<note place="margin">Ezek. 18.25</note> 
+               <hi>Are not my
+<pb n="9" facs="tcp:39026:7"/>ways equal?</hi> For they muſt needs be ſo, ſince there is not in him any of that Ignorance, or thoſe blind Affections (ſuch as Fear, Rage, Covetouſneſs, or the like) which commonly lead Men into unjuſt Deſigns. <hi>Be ye then righteous,</hi> as <hi>God is Righteous.</hi>
+               <note place="margin">1 Joh. 3.7.</note> Let not Great<g ref="char:EOLhyphen"/>neſs pleaſe it ſelf in bearing down the Rights of Inferiours, there is no Example of any ſuch thing in God. Let not rich Men attempt to corrupt Juſtice by Bribery, or undermine it by hired Perjuries: Let no Advocate be found (to uſe the words of a late Reverend Writer) of ſo degenerous a Mind, or ſo mercinary a Tongue, as to plead any Cauſe to obtain the Ends of Avarice or Ambition; as if, with the Italian Lawyer, he thought himſelf only the Advocate of his Client, and not of Juſtice. Let no Witneſſes, to gratify a Friend, to curry Favour with a Superiour, or to be revenged of an Enemy, enlarge their Evidence beyond the meaſures of Truth. Let not Jurors, through heedleſneſs or prejudice, give away any righte<g ref="char:EOLhyphen"/>ous Cauſe by an unrighteous Verdict. In a word, let every one now to be concerned in the Adminiſtration of Juſtice, remember what the Apoſtle affirms, That <hi>God is righteous,</hi> and he only <hi>who doth Righteouſneſs is born of him.</hi>
+               <note place="margin">1 Joh. 2.29.</note>
+               <pb n="10" facs="tcp:39026:8"/>Nothing, ſaith <hi>Plato,</hi> is more like God than a juſt Man, and ſuch an one only is entitled to the Priviledges of his Children. Unjuſt Men rather follow the Wickedneſs of the infernal Fiends, who do what Miſchief and Wrong they can to the whole Creation, than the Goodneſs of God, who doth Right to all Men, even to the Devil, and bad Men themſelves. But as the Juſtice, ſo</p>
+            <p n="2">2. <hi>The Bounty of God,</hi> is another branch of his Goodneſs to be tranſcribed by us. When God declares himſelf <hi>abundant in Goodneſs,</hi>
+               <note place="margin">Exod. 34.6.<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> he expreſſes it by an Hebrew word, which moſt frequently denotes <hi>Bounty:</hi> And as He himſelf is infinite; ſo his Bounty is (I had almoſt ſaid) ſomewhat more, extending, beſides himſelf, to every one of his Creatures. For what was the Creation, but a wonderful Emanation of the Divine Goodneſs? What is his Providence, but his daily Beneficience in maintaining and provi<g ref="char:EOLhyphen"/>ding for all the Creatures he hath made? And not to mention his Care of inferiour Beings, how innumerable are the Benefits that Man de<g ref="char:EOLhyphen"/>rives daily from his Goodneſs? Man, whom he hath advanced above the reſt of his viſible Creatures, as in the dignity of his Nature, ſo alſo in the multitude of his Favours. For doth not
+<pb n="11" facs="tcp:39026:8"/>Time continually travel in the production of new Bleſſings on us, every Seaſon entertaining us with its peculiar Conveniences? Is not every Creature given us to ſerve our Neceſſities for Food and Raiment, nay and to miniſter to our moderate and ſober Pleaſures too? But not to ſtay on ſmaller Largeſſes, hath not the ſame Bounty given us his eternal Son to be born, to obey, to ſuffer and to die, in purchaſing Heaven for us? Hath he not ſent his holy Spirit to aſſiſt us, and given us his holy Goſpel, and, by a late Miracle of Mercy to this Nation, confirm<g ref="char:EOLhyphen"/>ed us in the poſſeſſion of it, to direct us in the way thither? Is he not ready to give us all things we need, all things that are fit for us, and that for asking? Yea, and doth he not frequently by his Bounty preventour Petitions, as well as ex<g ref="char:EOLhyphen"/>ceed our deſervings? God's Bounty is a Fountain always running over, and yet never exhauſted.</p>
+            <p>And need I now to ſay, Who is a follower of this Goodneſs? Not ſure the <hi>Envious</hi> Man, who is ſo far from giving to others, that he grudges them the Gifts of Heaven. Not the <hi>Covetous</hi> Man, who is ſo far from being bounti<g ref="char:EOLhyphen"/>ous to others, that he is not ſo to himſelf, but for fear of dying a Beggar, lives like one. Not thoſe <hi>ſelfiſh narrow Souls,</hi> that can influence no
+<pb n="12" facs="tcp:39026:9"/>wider than the Bodies they inform; confining their Love and Care to their own Carcaſes; and like the fat Monk, who, at the diſſolution of the Abb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, had got a Penſion for his own Life; not at all concern'd for the Neceſſities of others, ſo they can ſave their own Stakes. But leaſt of all, thoſe <hi>moroſe Malicious</hi> Men, who love Miſchief, delight in harraſing and ruining their Neighbours; and like the Hedg-hog (as one compares him) wrapping themſelves in their own ſoft Down, turn their ſharp Prickles to all the World beſides. No, he only tranſcribes the Divine Bounty who is <hi>ready to diſtribute,</hi>
+               <note place="margin">1 Tim. 6.18.</note> 
+               <hi>willing to communicate;</hi> Who, like the Sun, liberally ſcatters about him that Light wherewith he a<g ref="char:EOLhyphen"/>bounds, and with-holds his warm Influences from none of his Inferiors, that wants them. Who (as<note n="*" place="margin">Epiſt. ad Diog<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Edit. <hi>1593. p. 387.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Juſtin Martyr</hi> purſues the Character) takes part of his Neighbours Burden, gladly communicates to them any good thing, where<g ref="char:EOLhyphen"/>in they are deficient, and by beſtowing on them that want, the abundance God hath given him, becomes <hi>a God to them that receive it.</hi> He (as<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Antonius</hi> in <hi>Jul. Caeſar</hi>'s anſwers <hi>Silenus</hi>) who needs the leaſt himſelf, and gives the moſt to others, beſt reſembles the Infinite Good, who needs nothing, and gives all things.</p>
+            <pb n="13" facs="tcp:39026:9"/>
+            <p>Let this then be conſidered by you, whom God hath enriched with plentiful Eſtates, and ſo qualified, that you may be great Bleſſings to your Country and to your Inferiours. Look up to Heaven and remember, that you are not <hi>Great</hi> as God is, unleſs you be <hi>Good</hi> too; unleſs you lay out your ſelves in Works of Beneficence for the Service of the Public, and the relief of the diſtreſſed; unleſs as you have more than others, ye do more Good with it; nay, unleſs ye can not only give to them that need your Bounty, but forgive them alſo that need your Mercy. Which leads us to the next branch of the Divine Goodneſs, which we are to imitate.</p>
+            <p n="3">3. <hi>His long-ſuffering and Mercy toward them that provoke him.</hi> That God is patient and merciful, not eaſily provoked, nor inexorable when he is provoked, is as evident as that we ſurvive the Sins we have committed, and live ſtill in hopes of pardon after all our Provo<g ref="char:EOLhyphen"/>cations. Our own Experience aſſures us, that he is not wont to ſend down Fire from Hea<g ref="char:EOLhyphen"/>ven upon the kindling of every Luſt below. That he doth not command the Earth to ſwal<g ref="char:EOLhyphen"/>low up every bold Offender, as ſoon as he hath made himſelf unworthy to tread on it: That
+<pb n="14" facs="tcp:39026:10"/>he is not always moved at the firſt Affront, but is ſtill as ſlow to Wrath, as we are forward to provoke, and no leſs backward to puniſh, than we are to reform. For do not all of us breath by the benefit of his Forbearance? Had not the very beſt of us been dead, in the Grave, in Hell long ſince, had not he <hi>made known his Power,</hi>
+               <note place="margin">Rom. 9.22.</note> 
+               <hi>by enduring with much long-ſuffering</hi> us <hi>Veſſels of Wrath,</hi> ſo <hi>fitted for Deſtruction.</hi>
+            </p>
+            <p>But to forbear with Sinners is not all the Goodneſs that God ſhews towards them; for he is always ready to forgive them, and his Mercy is no leſs conſpicuous than his Patience. How importunately doth he invite all Prodi<g ref="char:EOLhyphen"/>gals to return? and how ready is he to enter<g ref="char:EOLhyphen"/>tain and embrace them when they do? How loth is he that any of us ſhould die in our Sins? and how forward to give us Life, if we forſake them? And in the mean time, even whilſt we perſiſt in our Rebellion, how con<g ref="char:EOLhyphen"/>ſtant is he in his Care of us, and Bounty to us.</p>
+            <p>And need I now to ſay, who are the follow<g ref="char:EOLhyphen"/>ers of this Goodneſs? Not ſure the froward and paſſionate, the cruel and revengeful Man, who never forbears with any that provoke him longer than till he have an opportunity of Revenge, and is never at reſt till that be found
+<pb n="15" facs="tcp:39026:10"/>out: Not thoſe tumultuous Spirits that never can be quiet, till they have ſignalized their Reſentments by the ruin of their Adverſaries, and through the unrulineſs of their Paſſions, are miſerable themſelves, till they have made their Enemies ſo. No; ſuch impetuous Souls de<g ref="char:EOLhyphen"/>rive their Heat from Hell, not from the calm Influences of Heaven,<note place="margin">Rev. 12.12.</note> and imitate the <hi>great Wrath</hi> of that wicked one, whoſe Malice de<g ref="char:EOLhyphen"/>ſigns the deſtruction of Mankind; not the Goodneſs of God,<note place="margin">Iſa. 30.18.</note> who always <hi>waits to be gra<g ref="char:EOLhyphen"/>cious,</hi> even toward the moſt provoking Of<g ref="char:EOLhyphen"/>fenders. If you will tranſcribe this Copy, you muſt be <hi>ſlow to Wrath,</hi>
+               <note place="margin">Jam. 1.11.</note> and <hi>merciful as your Heavenly Father is;</hi> and that is not only to the good, but alſo <hi>to the unthankful and evil:</hi>
+               <note place="margin">Luk. 6.36.</note> You muſt be ſo juſt toward others, as not to need Pardon from them; and ſo merciful, as never to deny Pardon to any that need it from you. You muſt reſolve to practiſe no other ſort of Revenge on your Enemies, than by your kind<g ref="char:EOLhyphen"/>neſs <hi>to heap Coals of Fire on their Heads;</hi>
+               <note place="margin">Rom. 12.20, 21.</note> and ac<g ref="char:EOLhyphen"/>cording to the method of Divine <hi>Goodneſs</hi> in <hi>leading Sinners to Repentance,</hi>
+               <note place="margin">Rom. 2.4.</note> take this only courſe to make them repent the Injuries they have done you, by <hi>overcoming Evil with Good.</hi>
+            </p>
+            <p>And now you have a fair opportunity to
+<pb n="16" facs="tcp:39026:11"/>ſhew this Chriſtian, this Divine Temper. Whatever Injuries may have formerly been done to any of you, now that you have it in your Power to be revenged, let the World ſee you have forgiven them: That the Chriſtian hath ſo much the advantage of the Man, and of the Gentleman too, (according to the com<g ref="char:EOLhyphen"/>mon ſtandard of Gentility) that you can ex<g ref="char:EOLhyphen"/>ult as much in ſuch an occaſion of expreſſing your Meekneſs, as any others may have done formerly in ſignalizing their more paſſionate Reſentments: That you prefer the glorious Triumphs of Chriſtian Patience, and the Peace of your Country and the whole Nation, that may be ſecured thereby, above the little Satis<g ref="char:EOLhyphen"/>faction of ſome angry Retaliations: And had rather make others aſhamed of their Heats, by ſetting before them the inſtance of your calm and ſedate Temper, than ſeem to juſtify what they have done, by doing any thing like an imi<g ref="char:EOLhyphen"/>tation of it.</p>
+            <p>It only remains that I recommend the Di<g ref="char:EOLhyphen"/>vine Goodneſs to your Imitation,</p>
+            <p n="4">4. <hi>In reſpect of his Purity.</hi> That God is a Being infinitely pure and holy, and that all Im<g ref="char:EOLhyphen"/>morality is as contrary to his Nature as his Laws, can be doubted by none that believe him
+<pb n="17" facs="tcp:39026:11"/>to be a moſt perfect Being. Some few are ſo debauched in their Principles, as not to ac<g ref="char:EOLhyphen"/>knowledg Vertue a Perfection, and Vice an Im<g ref="char:EOLhyphen"/>perfection. God's Moral Laws then, where<g ref="char:EOLhyphen"/>by he obliges us to Purity, are not the bare re<g ref="char:EOLhyphen"/>ſult of his Will, but of his Nature; and all Immorality and Debauchery is odious to him, not barely becauſe he cannot abide to be diſ<g ref="char:EOLhyphen"/>obeyed, but becauſe it is contrary to that eter<g ref="char:EOLhyphen"/>nal Reaſon, which is founded on the Purity of his Nature. Heathen Poets indeed repre<g ref="char:EOLhyphen"/>ſented the Transformations of their Deities, and the abominable Extravagancies then com<g ref="char:EOLhyphen"/>mitted by them. Yet ſo far were their wiſeſt Men from imagining any ſuch things conſiſtent with the Divine Nature, that <hi>Plutarch</hi> tell us,<note place="margin">De <hi>'E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> apud <hi>Delphos,</hi> p. <hi>393.</hi> E.</note> they accounted it an unholy thing to report them, or <hi>even to hear them.</hi>
+            </p>
+            <p>If then you will follow God's Goodneſs, you muſt, according to the Apoſtle's Exhorta<g ref="char:EOLhyphen"/>tion, <hi>purify your ſelves, as God is pure.</hi>
+               <note place="margin">1 Joh. 3.3.</note>
+            </p>
+            <p>And I hope it will not be judged impertinent for me (now that I am called to ſpeak to this Honourable Auditory) to become the Advo<g ref="char:EOLhyphen"/>cate of <hi>contemned Morality,</hi> and to recommend Purity and Sobriety to you Great Ones; whoſe Example would as effectually teach it your In<g ref="char:EOLhyphen"/>feriours,
+<pb n="18" facs="tcp:39026:12"/>as it is too evident it hath already done the contrary. Who ſees not that the Prophaneſs and Debauchery, that every Clown is now ſo expert in, had its Original from the <hi>Honourable</hi> and <hi>Worſhipful?</hi> Retainers have imitated their Patrons, Servants their Maſters, and Tenants their Landlords, tranſcribing into their own Practice the Prophaneſs, Drunkenneſs and Whoredoms, which they obſerved to be not practiſed only, but even applauded among them. And ſo far hath this prevailed, that it hath been accounted (I need not to ſay) <hi>almoſt</hi> a Scandal for a Gentleman to be ſober; So that he that durſt not Swear, or Drink, or Whore; that had not ſome, or all of theſe Gentile Qualities, was accounted a mean ill-bred Fellow, and of no other uſe than to be redicul'd by the reſt of the Company. It hath been condemned as ill Manners to pretend to, and practiſe better Morality than the reſt; and ſome, reſolved to be vertuous, have thought it their ſafeſt Courſe to avoid ſuch publick Appearances of the Gen<g ref="char:EOLhyphen"/>trey, becauſe they judged it hard to be vertu<g ref="char:EOLhyphen"/>ous among them.</p>
+            <p>Thus it hath been: Is it now otherwiſe? There hath been a great and happy Revolution in the Times; Is there any ſuch Change in our
+<pb n="19" facs="tcp:39026:12"/>Manners? The Gentry have to their Honour ſhewed an extraordinary Zeal for their Re<g ref="char:EOLhyphen"/>ligion, hazarding their Eſtates and Lives for its Preſervation: And may it not now be reaſonably expected, that they ſhould prac<g ref="char:EOLhyphen"/>tiſe, which is the only way of enjoying what they have purchaſed? There is nothing doubtleſs more baſe and below a Gentleman in the whole Catalogue of Vices, than <hi>Hypo<g ref="char:EOLhyphen"/>criſie</hi> and <hi>Diſſimulation:</hi> And there cannot be a more baſe Hypocriſie, than for thoſe to pre<g ref="char:EOLhyphen"/>tend Zeal for any Religion, who have, who will have no Religion at all; than for them to contend with ſo much heat for our <hi>Faith</hi> and our <hi>Laws,</hi> who are reſolved their Lives ſhall be a continued Villation of and Affront to both. Shew then the ſincerity of your Profeſſion by your practice. Let the World ſee, that you love your holy Religion, by <hi>living</hi> it; and that you are truely Zealous for the beſt of Churches, by leading Lives, ſuch as may be for her Honour. Let <hi>Swearing</hi> be left out of your common Converſation, where, to ſay the leaſt, it is Impertinent, and altoge<g ref="char:EOLhyphen"/>ther Inſignificant, unleſs it be of the Speaker's Prophaneſs: and reſerve it for Courts of Ju<g ref="char:EOLhyphen"/>dicature, where, with <hi>Truth,</hi>
+               <note place="margin">Jer. 4.2.</note>
+               <hi>Judgment and
+<pb n="20" facs="tcp:39026:13"/>Righteouſneſs,</hi> it may be uſeful. Let <hi>Drunken<g ref="char:EOLhyphen"/>neſs</hi> be baniſhed from your Society, and the vile faſhion of provoking it, by urging Healths, now at length Sacrified to the Ho<g ref="char:EOLhyphen"/>nour of Sobriety. Let unchaſt Embraces be Strangers to your beds, and <hi>Whoredom</hi> and <hi>Adul<g ref="char:EOLhyphen"/>tery,</hi> as much hated by you, as it is ſure to be ſeverely <hi>judged by God.</hi>
+               <note place="margin">Heb. 13.4.</note> That as the Gentry are wont to leave Faſhions, as ſoon as the Commonality take them up, you would now leave theſe and ſuch like Vices, which they have learnt from you, and by your eminent Sobriety help to retrieve them too.</p>
+            <p>How elſe ſhould you expect, that the pure and holy God ſhould continue his Protection, or appear any longer as your Deliverer? How elſe ſhould it be thought, that what you have done, hath been out of Zeal for Religion, and not rather Intereſt under that Diſguiſe; if, af<g ref="char:EOLhyphen"/>ter your Point is gained, Religion be caſhiered, and when your Intereſts are ſerved, your Vices are retained? But I hope better Things of you, tho I thus ſpeak; that your Piety, Juſtice, Bounty, Mercy and Sobriety will give us a ſure Proſpect of good Times: That thereby you will make God your ſure Friend, and then the worſt of Men that are, or ſhall be againſt you,
+<pb n="21" facs="tcp:39026:13"/>ſhall not be able to harm ſuch <hi>Followers of that which is Good.</hi> Which brings me at length to the ſecond Part of my Text.</p>
+            <p n="2">II. The Priviledg of ſuch as follow the Di<g ref="char:EOLhyphen"/>vine Goodneſs. <hi>None will, none can harm ſuch an one.</hi>
+            </p>
+            <p n="1">1. <hi>This Interrogation ſuppoſes an Improbability at the leaſt that any ſhould deſire their Harm.</hi> There is ſuch an attractive Beauty in this Image of the Divine Goodneſs, as will effectually recom<g ref="char:EOLhyphen"/>mend the Owners of it to the eſteem and love of all Mankind. For <hi>a good Man</hi> (the A<g ref="char:EOLhyphen"/>poſtle ſaith) <hi>one would even dare to die.</hi>
+               <note place="margin">Rom. 5.7.</note> A Man of this Character is ſo uſeful a part of this World, and obliges ſo many, that he muſt needs have the feweſt Enemies, and the moſt, and the beſt Friends. Friends that would run the greateſt Hazards, perhaps venture their own Lives for the preſervation of his: Who ſo ſavage and brutiſh as to be Enemies of thoſe that are public Bleſſings to Mankind? They are ſnar<g ref="char:EOLhyphen"/>ling Curs indeed, that bark at thoſe great Lu<g ref="char:EOLhyphen"/>minaries, which by their Soveraign Influences cheriſh all inferiour Beings. However, if ſuch have any Enemies, the warm Influences of their Kindneſſes are likely to melt them into a more
+<pb n="22" facs="tcp:39026:14"/>ſoft and gentle Temper; or at leaſt the irreſi<g ref="char:EOLhyphen"/>ſtable energy of God's Providence will, who hath promiſed,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 7.</note> that <hi>when a Mans ways pleaſe him</hi> (as he cannot but be pleaſed with ſuch a lively Image of himſelf) <hi>he maketh even his Enemies to be at Peace with him.</hi>
+            </p>
+            <p>But it's poſſible there may be ſome ſo mon<g ref="char:EOLhyphen"/>ſtrouſly bad, and advanced ſo far toward the Nature of the Devil, as to hate them moſt that are moſt like to God, and for that reaſon moſt unlike themſelves; and to breath Deſtruction againſt all, whoſe Perfections upbraid and ex<g ref="char:EOLhyphen"/>poſe their Vices. However, theſe followers of God's Goodneſs may defy their impotent Malice. For,</p>
+            <p n="2">2. <hi>Let ſuch do their worſt they cannot harm them.</hi> The Interrogative here, as frequently in the Scriptures, more vehemently denies. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>who ſhall</hi> (<hi>i. e.</hi> none ſhall) <hi>be able to harm you?</hi> Which will appear from the Conſi<g ref="char:EOLhyphen"/>deration of theſe three Particulars.</p>
+            <p n="1">1. That no <hi>external Evils that the Malice of Men can bring on them, can rufflle the inward Peace and Serenity of their Conſciences.</hi> Naturaliſts take notice of the Sagacity of the Hedghog, whom Nature hath taught to retreat within herſelf, and take Sanctuary under her own Prickles againſt
+<pb n="23" facs="tcp:39026:14"/>the Violence of ſtronger Beaſts. In Alluſion to which the Royal Stoick <hi>Antoninus</hi> counſels his virtuous Man, for Security againſt external Evils,<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, lib. 7. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, §. 28.</note> to contract himſelf within himſelf, to retreat into his own Breaſt, and take Sanctuary againſt external Violences under the Protection of his own Innocence. A <hi>merry Heart,</hi> ſaith <hi>Solomon,</hi> or rather<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Prov. 15.15.</note> a good <hi>Heart, is a continual Feaſt.</hi> A Feaſt that cannot, like <hi>Caligula</hi>'s, be diſturbed by a flaſh of Lightning, or clap of Thunder; a Feaſt, whoſe Viands cannot be ſnatched from thy Mouth, nor thou defeated of the Entertain<g ref="char:EOLhyphen"/>ment by the moſt potent Malice. Let Oppreſ<g ref="char:EOLhyphen"/>ſion rob thee of thy Eſtate; Let Calumny blacken thy Reputation: Let hard and cruel Uſage impair thy Health; yet none of them can rob thee of thy Innocence, or that inward Peace that reſults from the Conſcience of it. When Storms roar abroad, there will be a Calm within, and the ſoft Whiſpers of a good Conſci<g ref="char:EOLhyphen"/>ence, thoſe <hi>Eccoes</hi> of Heaven's approbation, will charm thee not only into Peace, but but Exul<g ref="char:EOLhyphen"/>tation and Rejoycing, even when the World breaths out nothing but Threatning and De<g ref="char:EOLhyphen"/>ſtuction. The followers of God's Goodneſs are hereby aſſured, that <hi>God is with them,</hi> and that makes them not to fear what Men are, or what they act againſt them. And the leſs,</p>
+            <pb n="24" facs="tcp:39026:15"/>
+            <p n="2">2. <hi>Becauſe what is done againſt them, God will help them to become better for it.</hi>
+               <note place="margin">
+                  <hi>De Provid.</hi> c. 4.</note> 
+               <hi>Seneca</hi> compares his wiſe, virtuous Man, to <hi>Phidias,</hi> that famous Statuary, who could ſhew his Skill not only in Ivory, Braſs or Marble, but (when thoſe were wanting) in baſer Materials, by carving on any Matter the beſt Work it was capable of. For as a good Man can exerciſe his Vertues in the midſt of abundance, ſo (when ſtripp'd of that) in Poverty. He can be vertuous at home, and (if driven thence) in Baniſhment: Like the Fire, which turns all ſorts of Fewel into its own Nature, and encreaſes its Heat and Bright<g ref="char:EOLhyphen"/>neſs by thoſe Heaps, that ſeem to threaten the ſmoothering of both. Or like the Rod of <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> (as <hi>Epictetus</hi> compares him) he turns every thing he touches into Gold.<note place="margin">
+                  <hi>L.</hi> 3. <hi>c.</hi> 10.</note> Whatever his Condition is, he makes it beſt for him by do<g ref="char:EOLhyphen"/>ing his Duty, and exerciſing ſutable Vertues in it. And this not barely by his own Strength, but by the gracious Aſſiſtances of God, who hath promiſed to <hi>make all things to work together for his good.</hi>
+               <note place="margin">Rom. 8.28.</note> And who can harm him, who is ſure to be better for all the Harm his Enemies do him? whoſe inward Peace cannot be diſcom<g ref="char:EOLhyphen"/>poſed, whoſe Vertues will be improved by all the Attempts of their Malice againſt him? Eſpecially conſidering,</p>
+            <pb n="25" facs="tcp:39026:15"/>
+            <p n="3">3. Laſtly, <hi>That his eternal Felicity will be in<g ref="char:EOLhyphen"/>creaſed by all his temporal Sufferings.</hi>
+               <note place="margin">Epict. Ench. <hi>c. 79.</hi> &amp;c Simpl. in loc. <hi>p. 296.</hi>
+               </note> He may defy his Enemies Malice, as <hi>Socrates</hi> did <hi>Anytus</hi> and <hi>Melitus; Ye may kill me, but yet cannot hurt me.</hi> Their Malice may thruſt him out of this World; but as it cannot keep him out of Heaven, ſo it will occaſion the increaſe of his Glories there. For as there are degrees of Happineſs in Hea<g ref="char:EOLhyphen"/>ven, (<hi>one Star</hi> there <hi>differs from another in Glory</hi>) ſo they that ſuffer for well-doing,<note place="margin">1 Co. 15.41.</note> ſhall ſhare in the higheſt of them.<note place="margin">2 Cor. 4.17.</note> 
+               <hi>Their light Afflictions will work for them a far more exceeding and eternal weight of Glory. Far exceeding</hi> not only the Merit of their Sufferings, but alſo the Glories of all thoſe that have ſuffered leſs than they. <hi>Lazarus,</hi> who lived a good Man in the moſt mean and neceſ<g ref="char:EOLhyphen"/>ſitous State here,<note place="margin">Luk. 16.23. <hi>Vid. Ham. on</hi> Mat. 8.11.</note> we find in the moſt honoura<g ref="char:EOLhyphen"/>ble place, next the Maſter of the Feaſt, <hi>in A<g ref="char:EOLhyphen"/>braham's Boſom</hi> at the Supper of the Lamb. He that doth and ſuffers moſt for God, is ſure to receive moſt from him; ſo that the Malice of his Enemies deſigning his Miſery will inhaunce his Happineſs, and add to his future Recom<g ref="char:EOLhyphen"/>pence whatever they take away from his pre<g ref="char:EOLhyphen"/>ſent Enjoyments. <hi>Anaxagoras</hi> (as <hi>Plutarch</hi> re<g ref="char:EOLhyphen"/>lates) being unjuſtly deprived of his Eſtate, and thereby conſtrained to travel into Foreign Parts,
+<pb n="26" facs="tcp:39026:16"/>met with ſuch Advantages for the improve<g ref="char:EOLhyphen"/>ment of his Intellectuals, that upon his return home, paſſing by the Lands which had formerly been his, he ſaid, <hi>I had never been happy, if I had not loſt you.</hi> Such pleaſant Reflections will good Men in their Manſions of Glory make on their Worldly Loſſes and Sufferings. I had never arrived at this height of Happineſs, had I want<g ref="char:EOLhyphen"/>ted Enemies to endeavour my Miſery. I had never attained to ſuch an exceeding weight of Glory, had I been preſſed by a leſs weight of Afflictions. I had never enjoyed ſo much of the Love and Goodneſs of God, had I taſted the leſs of the Malice and Cruelty of Men. Thanks therefore to thoſe Enemies that deſign<g ref="char:EOLhyphen"/>ing my Harm, advanced my Felicity, and by their malicious Charity, helped me to obtain a brighter Crown, in enduring the Sufferings which they inflicted: Or rather <hi>Hallalujah</hi>'s to my good God, who hath turned their Malice to my advantage; and by thoſe that purſued me with a purpoſe to deſtroy me, hath driven me further into Heaven for Sanctuary.</p>
+            <p>This is the Priviledg of thoſe that imitate the Goodneſs of God, either none ſhall be willing, or none ſhall be able to harm them, becauſe they cannot rob them of their inward
+<pb n="27" facs="tcp:39026:16"/>Peace, and their external Injuries will make them better here, and more happy hereafter.</p>
+            <p>I ſhall only add, that as they are ſafe from Mens Malice, ſo they are alſo from God's Wrath.</p>
+            <p>A time will come, however the World ſeems to forget it, when all the Pageantry of this Life <hi>will be gone by,</hi>
+               <note place="margin">1 Cor. 7.23.</note> and the more dreadful Solemni<g ref="char:EOLhyphen"/>ties of the laſt Judgment ſucceed them; when the Realities of the preſent Scene will be tranſ<g ref="char:EOLhyphen"/>acted, and the great Aſſizes of the World ap<g ref="char:EOLhyphen"/>proach, whereof we have before us a fainter Emblem. A time will come, when the ſhrill Eccho's of the laſt Trump ſhall pierce not the Air only; but the Earth too, and awaken all Mankind out of their deep Sleep of Death to their final Trial; when the Shouts of Angels rending the Skies, ſhall uſher, and Flames of a burning World ſhall light the Judg of it to his Tribunal. A time will come, when before that tremendous Judg, and the Auguſt Aſſembly of Angels and Men, every one ſhall be impleaded, have all his ſecret Crimes diſplaid, and from that Righteous Judg receive a Sentence ac<g ref="char:EOLhyphen"/>cording to his Works.</p>
+            <p>And whoſe followers then will you deſire to be found? Who then will fare better, than they
+<pb n="28" facs="tcp:39026:17"/>that have the Image of God's Goodneſs im<g ref="char:EOLhyphen"/>printed on them? Who then can expect a fa<g ref="char:EOLhyphen"/>vourable Judg and a merciful Sentence, but they that, having done Good in their public or private Capacities, have neither the Cries of the Injured, nor the Clamors of their own Conſci<g ref="char:EOLhyphen"/>ence to appale them? It's not Greatneſs then, but only Goodneſs that will avail you. It's not numerous Titles; high Honours, great Au<g ref="char:EOLhyphen"/>thority, no nor great Eſtates that can then ſtand you in ſtead, unleſs you have thereby promoted Juſtice, protected Innocence, and ſet a good Example of Sobriety and Charity. Then eve<g ref="char:EOLhyphen"/>ry one muſt ſtand naked, whatever their ex<g ref="char:EOLhyphen"/>ternal Ornaments here have been, except thoſe only that <hi>are clothed in Robes of Righteouſneſs.</hi>
+               <note place="margin">Iſa. 61.10.</note> Then none will be found to have an Intereſt in Chriſt's Merits, but they only that have tran<g ref="char:EOLhyphen"/>ſcribed God's Goodneſs. And they then be<g ref="char:EOLhyphen"/>ing ſafe from Harm, ſecure of Bleſſedneſs, ſhall be advanced to that glorious Immortali<g ref="char:EOLhyphen"/>ty, where they ſhall <hi>be for ever ſatisfied with God's Likeneſs.</hi>
+               <note place="margin">Pſal. 17.15.</note> To which God of his infinite Mercies, bring us all, through the Merits of our Saviour Jeſus Chriſt. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:39026:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
